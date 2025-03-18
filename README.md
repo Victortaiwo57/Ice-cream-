@@ -1,4 +1,4 @@
-This is the first model I designed four years ago!
+This is the first model I designed four years ago (2021)!
 
 A simple linear regression model that predicts ice cream prices based on temperature variations.
 
